@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "a3UMFu6v1G8bm25SWV4PLgWIkW+zsNS8SSI9eGpFXC+hTa7j7Md+6p+jbgOa9pUy9nlS/X28gICm7DCYv3Azjg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okans\\Desktop\\pratikler\\String-Metotlar\\String-Metotlar.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okans\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
